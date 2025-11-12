@@ -1,0 +1,9 @@
+# 과제 재현성을 위한 버전 고정
+numpy==2.0.2
+torch==2.8.0+cu126
+torchao==0.10.0
+torchaudio==2.8.0+cu126
+torchdata==0.11.0
+torchsummary==1.5.1
+torchtune==0.6.1
+torchvision==0.23.0+cu126
